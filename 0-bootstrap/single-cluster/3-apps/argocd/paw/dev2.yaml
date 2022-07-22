@@ -14,7 +14,7 @@ spec:
     server: https://kubernetes.default.svc
   project: applications
   source:
-    path: paw/environments/paw2-0-76
+    path: paw/environments/dev2
   syncPolicy:
     automated:
       prune: true
