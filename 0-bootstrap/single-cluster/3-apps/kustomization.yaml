@@ -1,4 +1,5 @@
 resources:
+- argocd/paw/paw.yaml
 #- argocd/paw/dev.yaml
 #- argocd/paw/dev2.yaml
 #- argocd/paw/dev3.yaml
