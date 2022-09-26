@@ -1,7 +1,7 @@
 resources:
-- argocd/namespace-dev.yaml
-- argocd/namespace-dev2.yaml
-- argocd/namespace-dev3.yaml
+#- argocd/namespace-dev.yaml
+#- argocd/namespace-dev2.yaml
+#- argocd/namespace-dev3.yaml
 patches:
 - target:
     group: argoproj.io
